@@ -1,0 +1,5 @@
+PILLOW==9.4.0
+loguru==0.7.2
+diffimg==0.3.0
+discord_webhook==1.3.0
+pytesseract==0.3.10
